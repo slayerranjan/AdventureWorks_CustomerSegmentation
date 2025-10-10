@@ -1,0 +1,5 @@
+﻿Skill,Tool,Description,Impact
+SQL,PostgreSQL,"Cleaned and joined raw customer data using advanced SQL queries, including CASE statements and segmentation logic",Enabled precise customer grouping and downstream dashboard clarity
+Power BI,Power BI Desktop,Created interactive dashboards with DAX measures and slicers,Delivered dynamic segmentation and revenue breakdowns
+GitHub,Git,"Structured repo with folders, screenshots, and README documentation","Showcased backend clarity, recruiter polish, and project ownership"
+Excel,Excel Desktop,"Built demographic dashboards using pivot tables, slicers, and conditional formatting","Visualized income, age, and children bands for recruiter-facing insights"
